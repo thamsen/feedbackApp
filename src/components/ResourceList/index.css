@@ -1,0 +1,9 @@
+.button-image {
+  width: 45px;
+  height: 45px;
+}
+.images {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
